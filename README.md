@@ -1,1 +1,3 @@
-# Linear-Regression-Coursera-Course
+# Linear Regression Coursera Course
+
+Mainly just for HW assignments
